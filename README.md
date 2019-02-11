@@ -45,4 +45,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Martin Collado Pérez
 Pablo Lostao Fernandez
-Botón de reset y Personalización de los estilos
+Mejoras:
+-Botón de reset  
+-Personalización de los estilos
